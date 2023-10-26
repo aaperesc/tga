@@ -1,6 +1,6 @@
 # Aseprite TGA Library
 # Copyright (C) 2020-2021  Igara Studio S.A.
-
+cmake_minimum_required(VERSION 3.26)
 project(tga)
 
 # We need C++11 because we use the "override" keyword
